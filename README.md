@@ -1,1 +1,1 @@
-# priority-deadline-scheduling-OS
+# Priority Deadline Scheduling OS
